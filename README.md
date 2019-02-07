@@ -1,1 +1,0 @@
-Heurística y Optimizacion
